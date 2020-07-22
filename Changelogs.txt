@@ -2,3 +2,4 @@ Changelogs:
     
   [*] Otsutsuki UI
   [*] Clean UI
+  [*] Support's OWLHUB but sometime's crash
